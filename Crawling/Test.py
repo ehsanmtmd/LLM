@@ -27,5 +27,5 @@ for element in elements:
 
 button = driver.find_element(By.NAME, 'button_name')
 button.click()
-print("hit")
+print("hite")
 
